@@ -36,5 +36,4 @@ Organizing content visually for clear messaging
 
 🚀 Live Preview
 👉 Click here to view Product Landing Page
-https://github.com/yourusername/product-landing-page
-
+https://adeife25.github.io/product-landing-page/
